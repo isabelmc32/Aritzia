@@ -17,7 +17,7 @@ SmartStyle is a new feature that allows clients to visualize pieces of clothing 
 
 [INSERT PICTURES OF SMARTSTYLE HERE]
 
-Aritzia's SmartStyle poutfit pairings are based off of data generated from outfit videos on Tiktok, as well as website sales data analytics.
+Aritzia's SmartStyle outfit pairings are based off of data generated from outfit videos on Tiktok, as well as website sales data analytics.
 
 In the following code, the SmartStyle Algorithm is built from scratch using R. A mock dataset was created and imported into R, showing data that might be generated from TikTok videos styling multiple Aritzia pieces together, as well as from website analytics showing which items are commonly purchased together to form an outfit.The knn classifier learns from the mock data we present to it, and shows a 82% accuracy in predicting the correct item to complete the outfit. For example, given the Ganna Jacket, the Melina Pant and The Contour Squareneck Bodysuit, the algorithm will predict that the New Balance 2002R Shoes sold at Aritzia would pair well with this combination of items. The following code runs through the generation of the algorithm, and then tests the algorithm to provide four different outfit suggestions at the bottom of the page.
 
