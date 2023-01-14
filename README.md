@@ -1,6 +1,6 @@
 # Aritzia
 
-FIGMA PRODUCT DEMONSTRATION LINK: https://www.figma.com/file/vQZHGsKg6MmCPsDJS7WPIB/Aritzia?node-id=0%3A1&t=wY11Fuhl1Jtt04eC-1
+FIGMA PRODUCT DEMONSTRATION LINK: https://www.figma.com/proto/vQZHGsKg6MmCPsDJS7WPIB/Aritzia?node-id=29%3A14&scaling=scale-down&page-id=0%3A1&starting-point-node-id=29%3A14&show-proto-sidebar=1
 
 Aritzia has mastered being every girl’s trusted brand for any event. However, there are challenges with the e-commerce environment that get between me, your average consumer and you Aritizia. In order for Aritzia to uphold it’s leadership in the fashion industry with e-commerce, we need to empower consumer style. 
 
