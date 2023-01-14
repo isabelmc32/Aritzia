@@ -8,7 +8,6 @@ To do so, let us introduce you to Amy, an avid aritzia shopper. She has a birthd
 
 -> Her SECOND pain point is that she struggles to find the shirt and put together an outfit she's confident about purchasing.
 
-
 As you might already know, "the cart abandonment rate in fashion e-commerce is 68.3%” According to Ascendia Insights.  That’s a large portion of missed sales.
 
 Therefore, our project has designed a solution to address this issue, and minimize the points of friction during Amy's shopping experience.
@@ -17,7 +16,11 @@ SmartStyle is a new feature that allows clients to visualize pieces of clothing 
 
 [INSERT PICTURES OF SMARTSTYLE HERE]
 
-Aritzia's SmartStyle outfit pairings are based off of data generated from outfit videos on Tiktok, as well as website sales data analytics.
+SMARTSTYLE ALGORITHM:
 
-In the following code, the SmartStyle Algorithm is built from scratch using R. A mock dataset was created and imported into R, showing data that might be generated from TikTok videos styling multiple Aritzia pieces together, as well as from website analytics showing which items are commonly purchased together to form an outfit.The knn classifier learns from the mock data we present to it, and shows a 82% accuracy in predicting the correct item to complete the outfit. For example, given the Ganna Jacket, the Melina Pant and The Contour Squareneck Bodysuit, the algorithm will predict that the New Balance 2002R Shoes sold at Aritzia would pair well with this combination of items. The following code runs through the generation of the algorithm, and then tests the algorithm to provide four different outfit suggestions at the bottom of the page.
+Aritzia's SmartStyle outfit pairings are based off of data generated from outfit videos on Tiktok, as well as website sales data analytics. Data taken from Tiktok can include pairings of items styled by the poster in the comments or description box of the video. This can also be applied to apps like Instagram and VSCO, so long as the items shown in the outfit are written out by the poster. In the future, it is possible that AI can recognize Aritzia items in pictures or videos to generate data, but this is not currently modelled by the SmartStyle algorithm, as it is quite complex. 
+
+In the following code, the SmartStyle Algorithm is built from scratch using R. A mock dataset was created and imported into R, showing data that might be generated from TikTok videos styling multiple Aritzia pieces together, as well as from website analytics showing which items are commonly purchased together to form an outfit. The knn classifier learns from the mock data we present to it, and shows a 82% accuracy in predicting the "correct" item to complete the outfit. A "correct" item is the one most frequently paired with the remaining pieces in the outfit. 
+
+For example, given the Ganna Jacket, the Melina Pant and The Contour Squareneck Bodysuit, the algorithm will predict that the New Balance 2002R Shoes sold at Aritzia would pair well with this combination of items. The following code runs through the generation of the algorithm, and then tests the algorithm to provide four different outfit suggestions at the bottom of the page. It also tests the algorithm's overall accuracy, which is currently at 82% with the mock dataset! :)
 
