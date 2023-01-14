@@ -1,5 +1,7 @@
 # Aritzia
 
+FIGMA PRODUCT DEMONSTRATION LINK: https://www.figma.com/file/vQZHGsKg6MmCPsDJS7WPIB/Aritzia?node-id=0%3A1&t=wY11Fuhl1Jtt04eC-1
+
 Aritzia has mastered being every girl’s trusted brand for any event. However, there are challenges with the e-commerce environment that get between me, your average consumer and you Aritizia. In order for Aritzia to uphold it’s leadership in the fashion industry with e-commerce, we need to empower consumer style. 
 
 To do so, let us introduce you to Amy, an avid aritzia shopper. She has a birthday party tomorrow and needs an outfit. So as every other gen-Z, she goes on tik tok. She sees the melina pants styled on her For You Page. She goes to the Aritzia website and adds the Melina pants to her cart. Then, she runs into some friction in her purchase journey which could lead to cart abandonment.
