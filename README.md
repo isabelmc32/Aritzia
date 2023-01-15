@@ -16,7 +16,6 @@ Therefore, our project has designed a solution to address this issue, and minimi
 
 SmartStyle is a new feature that allows clients to visualize pieces of clothing put together as a cohesive outfit on a virtual mannequin. Additionally, with Aritzia's fit analytics, we are hoping to use this data to provide size recommendations in order to improve customer satisfaction and increase inventory turnover. This would provide Artizia an innovative edge to drive revenues in the e-commerce plateform and truly highlights their values of everyday luxury in their customer shoppping experience.
 
-[INSERT PICTURES OF SMARTSTYLE HERE]
 
 SMARTSTYLE ALGORITHM:
 
